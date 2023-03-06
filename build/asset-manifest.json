@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/CubeMail/static/js/main.d66bf6c8.chunk.js",
+    "main.js.map": "/CubeMail/static/js/main.d66bf6c8.chunk.js.map",
+    "runtime-main.js": "/CubeMail/static/js/runtime-main.8b14a9d4.js",
+    "runtime-main.js.map": "/CubeMail/static/js/runtime-main.8b14a9d4.js.map",
+    "static/js/2.3a688b5c.chunk.js": "/CubeMail/static/js/2.3a688b5c.chunk.js",
+    "static/js/2.3a688b5c.chunk.js.map": "/CubeMail/static/js/2.3a688b5c.chunk.js.map",
+    "index.html": "/CubeMail/index.html",
+    "precache-manifest.4893816c29d0af8b3d8bef6af22501d1.js": "/CubeMail/precache-manifest.4893816c29d0af8b3d8bef6af22501d1.js",
+    "service-worker.js": "/CubeMail/service-worker.js",
+    "static/js/2.3a688b5c.chunk.js.LICENSE.txt": "/CubeMail/static/js/2.3a688b5c.chunk.js.LICENSE.txt",
+    "static/media/empty_email.svg": "/CubeMail/static/media/empty_email.c9034baf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b14a9d4.js",
+    "static/js/2.3a688b5c.chunk.js",
+    "static/js/main.d66bf6c8.chunk.js"
+  ]
+}
